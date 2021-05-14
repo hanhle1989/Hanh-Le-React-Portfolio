@@ -83,8 +83,18 @@ nav{
   font-weight: bold;
 }
 
-@media(max-width: 500px) {
-  .profilePic{
-    width: 200px;
-  }
+.portfolio-wrapper {
+  background-color: rgb(230, 230, 230);
+  padding: 2rem;
+}
+
+.portfolio-image {
+  width: 10rem;
+  margin-bottom: 1rem;
+}
+
+.portfolio-image-box {
+  position: relative;
+  margin: 1rem;
+  justify-content: center;
 }
