@@ -66,3 +66,25 @@ nav{
   width: 100vw;
   z-index: 1;
 }
+
+.photo-wrap {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.profilePic {
+  width: 32rem;
+  border-radius: 50%
+}
+
+.header {
+  size: auto;
+  font-weight: bold;
+}
+
+@media(max-width: 500px) {
+  .profilePic{
+    width: 200px;
+  }
+}
