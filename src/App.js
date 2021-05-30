@@ -4,9 +4,9 @@ import Navbar from "./components/Navbar";
 import Header from "./components/Header"
 import Particles from 'react-particles-js';
 import AboutMe from "./components/AboutMe";
-import Photography from "./components/Photography";
-import MixedMedia from "./components/mixedMedia";
 import WebDevelopment from "./components/WebDevelopment";
+import ContactUs from './components/ContactUs';
+import Footer from './components/footer';
 
 function App() {
   return (
@@ -68,9 +68,9 @@ function App() {
       <Navbar />
       <Header />
       <AboutMe />
-      <Photography />
-      <MixedMedia />
       <WebDevelopment />
+      <ContactUs />
+      <Footer />
     </>
   );
 }
