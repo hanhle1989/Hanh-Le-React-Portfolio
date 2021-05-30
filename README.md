@@ -5,7 +5,7 @@ Create a responsive bio site using React which contains Home/About Me, Resume, P
 
 ## Links to the deployed application:
 [GitHub Repository](https://github.com/hanhle1989/Hanh-Le-React-Portfolio)
-and [Deployed Application](https://hanhle1989.github.io/Bootstrap-Portfolio/index.html)
+and [Deployed Application](https://hanhle1989.github.io/Hanh-Le-React-Portfolio/)
 
 
 ## Screenshot of the Deployed Application:
