@@ -9,7 +9,7 @@ import EmDirectory from "../web_development/employee-directory.gif";
 
 export const WebDevelopment = () => {
     return (
-        <div id="portfolio" className="portfolio-wrapper">
+        <div id="projects" className="portfolio-wrapper">
             <div className="container">
                 <h1 className="header text-center py-5">PAST PROJECTS</h1>
 

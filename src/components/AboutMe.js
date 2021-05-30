@@ -3,7 +3,7 @@ import BioPic from "../bio-pic.jpg";
 
 export const AboutMe = () => {
     return (
-        <div className="container py-5">
+        <div id="about" className="container py-5">
             <div className="row">
                 <div className="col-lg-5 col-xm-12">
                     <div className="photo-wrap mb-5">

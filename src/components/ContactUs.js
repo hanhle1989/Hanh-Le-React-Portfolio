@@ -16,7 +16,7 @@ export default function ContactUs() {
   }
 
   return (
-    <div className="container">
+    <div id="contact" className="container">
       <div className="row">
         <div className="col-4">
           <h1 className="header contactHeader">GET IN TOUCH</h1>

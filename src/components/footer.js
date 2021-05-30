@@ -13,7 +13,6 @@ export const Footer = () => {
             <a href="mailto:hanhdtle@gmail.com" title="email" rel="me" class="contact-text" target="_blank">
                 hanhdtle@gmail.com
                 </a>
-            <br></br>
 
             <div className="copyright">© 2021 Hanh Le Designs. All rights reserved.</div>
         </div>
