@@ -26,10 +26,10 @@ nav{
 
 .header-wrapper{
   position: relative;
-  background: url(background.jpeg) no-repeat;
+  background: url(./assets/background.jpeg) no-repeat;
   background-size: cover;
   background-position: center;
-  height: 90vh;
+  height: 70vh;
 }
 
 .main-info{
@@ -119,7 +119,7 @@ nav{
 .footer {
   padding-top:30px;
   padding-bottom: 100px;
-  background: url(footer.jpeg) no-repeat;
+  background: url(./assets/footer.jpeg) no-repeat;
   color: white;
   justify-content: center;
   text-align: center;

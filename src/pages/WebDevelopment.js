@@ -1,11 +1,11 @@
 import React from "react";
 
-import Password from "../web_development/password-generator.jpg";
-import Quiz from "../web_development/mini-quiz.jpg";
-import Weather from "../web_development/weather-dashboard.jpg";
-import Workout from "../web_development/workout-tracker.gif";
-import Note from "../web_development/note-taker.gif";
-import EmDirectory from "../web_development/employee-directory.gif";
+import Password from "../assets/web_development/password-generator.jpg";
+import Quiz from "../assets/web_development/mini-quiz.jpg";
+import Weather from "../assets/web_development/weather-dashboard.jpg";
+import Workout from "../assets/web_development/workout-tracker.gif";
+import Note from "../assets/web_development/note-taker.gif";
+import EmDirectory from "../assets/web_development/employee-directory.gif";
 
 export const WebDevelopment = () => {
     return (
