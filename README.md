@@ -1,4 +1,4 @@
-# Unit 02 CSS and Bootstrap Homework: Responsive Portfolio
+# REACT Portfolio
 
 ## Objective
 Create a responsive bio site using React which contains Home/About Me page, downloadable Resume, Portfolio page with 6 projects and Contact page with a contact form.
