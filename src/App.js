@@ -1,6 +1,6 @@
 
 import React from "react";
-import { BrowserRouter, Route} from "react-router-dom";
+import { BrowserRouter as Router, Route} from "react-router-dom";
 
 import './App.css';
 import "bootstrap/dist/css/bootstrap.min.css";
@@ -15,7 +15,7 @@ import Contact from './pages/Contact';
 
 function App() {
   return (
-      <BrowserRouter basename={process.env.PUBLIC_URL + '/'}>
+      <Router path={process.env.PUBLIC_URL + '/'}>
         <Navbar />
         <Header />
           <Route exact path="/"> <Home />
@@ -32,7 +32,7 @@ function App() {
           </Route>
           
         <Footer />
-      </BrowserRouter>
+      </Router>
   );
 }
 
