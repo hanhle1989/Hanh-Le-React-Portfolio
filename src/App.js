@@ -19,10 +19,10 @@ function App() {
       <Navbar />
       <Header />
       <Switch>
-        <Route exact path="/#/" component={Home} />
-        <Route exact path="/#/Home" component={Home} />
-        <Route exact path="/#/WebDevelopment" component={WebDevelopment} />
-        <Route exact path="/#/Contact" component={Contact} />
+        <Route exact path="/" component={Home} />
+        <Route exact path="/Home" component={Home} />
+        <Route exact path="/WebDevelopment" component={WebDevelopment} />
+        <Route exact path="/Contact" component={Contact} />
       </Switch>
       <Footer />
     </BrowserRouter>
