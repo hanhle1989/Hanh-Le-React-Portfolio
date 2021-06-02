@@ -21,7 +21,7 @@ function App() {
           <Route exact path="/"> <Home />
           </Route>
 
-          <Route exact path={process.env.PUBLIC_URL + "/Home"}>
+          <Route path={process.env.PUBLIC_URL + "/Home"}>
 
          {/*</Route> <Route exact path="/Home"> <Home />*/}
           </Route>
