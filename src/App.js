@@ -15,7 +15,7 @@ import Contact from "./pages/Contact";
 
 function App() {
   return (
-    <BrowserRouter basename={process.env.PUBLIC_URL + '/#/'}>
+    <BrowserRouter basename='https://hanhle1989.github.io/Hanh-Le-React-Portfolio/#/'>
       <Navbar />
       <Header />
       <Switch>
