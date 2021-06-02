@@ -5,11 +5,14 @@ Create a responsive bio site using React which contains Home/About Me page, down
 
 ## Links to the deployed application:
 [GitHub Repository](https://github.com/hanhle1989/Hanh-Le-React-Portfolio)
-and [Deployed Application](https://hanhle1989.github.io/Hanh-Le-React-Portfolio/)
+and [Deployed Application](https://hanh-le-portfolio.herokuapp.com/Home)
 
 
 ## Screenshot of the Deployed Application:
-![code refactor demo](./pics/screenshot.jpg)
+![header screenshot](./pics/screenshot.jpg)
+<br></br>
+
+![past projects screenshot](./pics/screenshot_2.jpg)
 
 
 ## Copyright (c) 2021 HLDesigns
