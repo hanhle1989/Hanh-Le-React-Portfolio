@@ -1,6 +1,6 @@
 
 import React from "react";
-import { HashRouter as Router, Route } from "react-router-dom";
+import { BrowserRouter as Router, Route } from "react-router-dom";
 
 import './App.css';
 import "bootstrap/dist/css/bootstrap.min.css";
@@ -18,16 +18,16 @@ function App() {
       <Router>
         <Navbar />
         <Header />
-          <Route exact path="/"> <Home />
+          <Route pathname="/"> <Home />
           </Route>
 
-          <Route exact path="/Home"> <Home />
+          <Route pathname="/Home"> <Home />
           </Route>
 
-          <Route exact path="/WebDevelopment"> <WebDevelopment />
+          <Route pathname="/WebDevelopment"> <WebDevelopment />
           </Route>
 
-          <Route exact path="/Contact"> <Contact />
+          <Route pathname="/Contact"> <Contact />
           </Route>
           
         <Footer />
