@@ -2,8 +2,6 @@
 import React from "react";
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 
-import Particles from 'react-particles-js';
-
 import './App.css';
 
 import "bootstrap/dist/css/bootstrap.min.css";
