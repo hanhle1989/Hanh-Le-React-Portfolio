@@ -15,14 +15,14 @@ import Contact from "./pages/Contact";
 
 function App() {
   return (
-    <BrowserRouter basename='https://hanhle1989.github.io/Hanh-Le-React-Portfolio/#/'>
+    <BrowserRouter basename='/Hanh-Le-React-Portfolio'>
       <Navbar />
       <Header />
       <Switch>
-        <Route exact path="/Hanh-Le-React-Portfolio/#/" component={Home} />
-        <Route exact path="/Hanh-Le-React-Portfolio/#/Home" component={Home} />
-        <Route exact path="/Hanh-Le-React-Portfolio/#/WebDevelopment" component={WebDevelopment} />
-        <Route exact path="/Hanh-Le-React-Portfolio/#/Contact" component={Contact} />
+        <Route exact path="/#/" component={Home} />
+        <Route exact path="/#/Home" component={Home} />
+        <Route exact path="/#/WebDevelopment" component={WebDevelopment} />
+        <Route exact path="/#/Contact" component={Contact} />
       </Switch>
       <Footer />
     </BrowserRouter>
