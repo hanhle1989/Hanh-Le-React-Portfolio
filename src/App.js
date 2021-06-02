@@ -15,7 +15,7 @@ import Contact from "./pages/Contact";
 
 function App() {
   return (
-    <BrowserRouter basename='/Hanh-Le-React-Portfolio'>
+    <BrowserRouter basename='/'>
       <Navbar />
       <Header />
       <Switch>
