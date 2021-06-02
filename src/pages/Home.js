@@ -1,6 +1,5 @@
 import React from "react";
 import BioPic from "../assets/bio-pic.jpg";
-import Particles from 'react-particles-js';
 
 export const Home = () => {
     return (
