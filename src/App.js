@@ -15,7 +15,7 @@ import Contact from './pages/Contact';
 
 function App() {
   return (
-      <BrowserRouter basename={process.env.PUBLIC_URL}>
+      <BrowserRouter basename={process.env.PUBLIC_URL + '/'}>
         <Navbar />
         <Header />
           <Route exact path="/"> <Home />
