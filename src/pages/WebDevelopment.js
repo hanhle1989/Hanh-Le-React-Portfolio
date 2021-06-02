@@ -2,7 +2,7 @@ import React from "react";
 import Projects from "../components/Projects";
 import projects from "../utils/projects"
 
-function WebDevelopment(){
+export const WebDevelopment = () => {
     return (
         <div>
             <Projects projects={projects}/>
