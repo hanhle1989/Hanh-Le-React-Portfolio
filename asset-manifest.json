@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/Hanh-Le-React-Portfolio/static/css/main.21050242.chunk.css",
-    "main.js": "/Hanh-Le-React-Portfolio/static/js/main.f248f42d.chunk.js",
-    "main.js.map": "/Hanh-Le-React-Portfolio/static/js/main.f248f42d.chunk.js.map",
+    "main.js": "/Hanh-Le-React-Portfolio/static/js/main.e810d866.chunk.js",
+    "main.js.map": "/Hanh-Le-React-Portfolio/static/js/main.e810d866.chunk.js.map",
     "runtime-main.js": "/Hanh-Le-React-Portfolio/static/js/runtime-main.ff9b8ed2.js",
     "runtime-main.js.map": "/Hanh-Le-React-Portfolio/static/js/runtime-main.ff9b8ed2.js.map",
     "static/css/2.61b4cb56.chunk.css": "/Hanh-Le-React-Portfolio/static/css/2.61b4cb56.chunk.css",
-    "static/js/2.12ab464f.chunk.js": "/Hanh-Le-React-Portfolio/static/js/2.12ab464f.chunk.js",
-    "static/js/2.12ab464f.chunk.js.map": "/Hanh-Le-React-Portfolio/static/js/2.12ab464f.chunk.js.map",
+    "static/js/2.43597c02.chunk.js": "/Hanh-Le-React-Portfolio/static/js/2.43597c02.chunk.js",
+    "static/js/2.43597c02.chunk.js.map": "/Hanh-Le-React-Portfolio/static/js/2.43597c02.chunk.js.map",
     "static/js/3.35cf9792.chunk.js": "/Hanh-Le-React-Portfolio/static/js/3.35cf9792.chunk.js",
     "static/js/3.35cf9792.chunk.js.map": "/Hanh-Le-React-Portfolio/static/js/3.35cf9792.chunk.js.map",
     "index.html": "/Hanh-Le-React-Portfolio/index.html",
     "static/css/2.61b4cb56.chunk.css.map": "/Hanh-Le-React-Portfolio/static/css/2.61b4cb56.chunk.css.map",
     "static/css/main.21050242.chunk.css.map": "/Hanh-Le-React-Portfolio/static/css/main.21050242.chunk.css.map",
-    "static/js/2.12ab464f.chunk.js.LICENSE.txt": "/Hanh-Le-React-Portfolio/static/js/2.12ab464f.chunk.js.LICENSE.txt",
+    "static/js/2.43597c02.chunk.js.LICENSE.txt": "/Hanh-Le-React-Portfolio/static/js/2.43597c02.chunk.js.LICENSE.txt",
     "static/media/App.css": "/Hanh-Le-React-Portfolio/static/media/footer.b19dbd11.jpeg",
     "static/media/bio-pic.be11d7d6.jpg": "/Hanh-Le-React-Portfolio/static/media/bio-pic.be11d7d6.jpg",
     "static/media/employee-directory.cd7b0c45.gif": "/Hanh-Le-React-Portfolio/static/media/employee-directory.cd7b0c45.gif",
@@ -28,8 +28,8 @@
   "entrypoints": [
     "static/js/runtime-main.ff9b8ed2.js",
     "static/css/2.61b4cb56.chunk.css",
-    "static/js/2.12ab464f.chunk.js",
+    "static/js/2.43597c02.chunk.js",
     "static/css/main.21050242.chunk.css",
-    "static/js/main.f248f42d.chunk.js"
+    "static/js/main.e810d866.chunk.js"
   ]
 }
