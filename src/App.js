@@ -19,10 +19,10 @@ function App() {
       <Navbar />
       <Header />
       <Switch>
-        <Route exact path="Hanh-Le-React-Portfolio/#/" component={Home} />
-        <Route exact path="Hanh-Le-React-Portfolio/#/Home" component={Home} />
-        <Route exact path="Hanh-Le-React-Portfolio/#/WebDevelopment" component={WebDevelopment} />
-        <Route exact path="Hanh-Le-React-Portfolio/#/Contact" component={Contact} />
+        <Route exact path="/Hanh-Le-React-Portfolio/#/" component={Home} />
+        <Route exact path="/Hanh-Le-React-Portfolio/#/Home" component={Home} />
+        <Route exact path="/Hanh-Le-React-Portfolio/#/WebDevelopment" component={WebDevelopment} />
+        <Route exact path="/Hanh-Le-React-Portfolio/#/Contact" component={Contact} />
       </Switch>
       <Footer />
     </BrowserRouter>
