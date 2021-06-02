@@ -2,6 +2,8 @@
 import React from "react";
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 
+import Particles from 'react-particles-js';
+
 import './App.css';
 
 import "bootstrap/dist/css/bootstrap.min.css";
@@ -15,19 +17,17 @@ import Contact from './pages/Contact';
 
 function App() {
   return (
-    <Router>
-      <Navbar />
-      <Header />
-
-      <Switch>
-        <Route exact path="/" component={Home} />
-        <Route exact path="/Home" component={Home} />
-        <Route exact path="/WebDevelopment" component={WebDevelopment} />
-        <Route exact path="/Contact" component={Contact} />
-      </Switch>
-
-      <Footer />
-    </Router>
+      <Router>
+        <Navbar />
+        <Header />
+        <Switch>
+          <Route exact path="/" component={Home} />
+          <Route exact path="/Home" component={Home} />
+          <Route exact path="/WebDevelopment" component={WebDevelopment} />
+          <Route exact path="/Contact" component={Contact} />
+        </Switch>
+        <Footer />
+      </Router>
   );
 }
 

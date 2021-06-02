@@ -99,13 +99,10 @@ nav{
   margin-bottom: 1rem;
   margin-top: 1.5rem;
 }
+
 .card{
   border-radius: 0 !important;
   border-bottom: 3px solid black !important;
-}
-
-.row {
-  margin-bottom: 1.5rem;
 }
 
 .submitBtn {
