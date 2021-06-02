@@ -1,6 +1,6 @@
 
 import React from "react";
-import { HashRouter, Route, Switch } from "react-router-dom";
+import { BrowserRouter, Route, Switch } from "react-router-dom";
 
 import './App.css';
 import "bootstrap/dist/css/bootstrap.min.css";
@@ -15,7 +15,7 @@ import Contact from "./pages/Contact";
 
 function App() {
   return (
-    <HashRouter basename={process.env.PUBLIC_URL}>
+    <BrowserRouter basename="/">
       <Navbar />
       <Header />
       <Switch>
@@ -25,7 +25,7 @@ function App() {
         <Route exact path="/Contact" component={Contact} />
       </Switch>
       <Footer />
-    </HashRouter>
+    </BrowserRouter>
   );
 }
 
