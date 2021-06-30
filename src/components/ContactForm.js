@@ -20,7 +20,7 @@ export const Contact = () => {
       <div className="row">
         <div className="col-4">
           <h1 className="header contactHeader">GET IN TOUCH</h1>
-          <p className="contactMessage">Wanna get in touch? Drop me a message using this form or call me at (206) 457-9305. I promise you're not going to hit a ridiculously long phone menu when you call me and your email isn't going to the inbox abyss, never to be seen or heard from again.</p>
+          <p className="contactMessage">Wanna get in touch? Drop me a message using this form. I promise you're not going to hit a ridiculously long phone menu when you call me and your email isn't going to the inbox abyss, never to be seen or heard from again.</p>
         </div>
 
         <div className="col-8 contactForm py-5">
